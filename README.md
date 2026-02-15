@@ -1,4 +1,14 @@
-## Hi there 👋
+# Hi there! I'm Yusuf Nur Wahid 👋
+![Yusuf Nur Wahid](img/header.png)
+
+#### Skills
+[![Golang](https://skillicons.dev/icons?i=go&theme=dark)](https://go.dev) [![PostgreSQL](https://skillicons.dev/icons?i=postgresql&theme=dark)](https://www.postgresql.org/) [![Redis](https://skillicons.dev/icons?i=redis&theme=dark)](https://redis.io/) [![Docker](https://skillicons.dev/icons?i=docker&theme=dark)](https://www.docker.com/)
+
+#### Tech Stack & Tools
+[![Postman](https://skillicons.dev/icons?i=postman&theme=dark)](https://www.postman.com/) [![VSCode](https://skillicons.dev/icons?i=vscode&theme=dark)](https://code.visualstudio.com/) [![Ubuntu](https://skillicons.dev/icons?i=ubuntu&theme=dark)](https://ubuntu.com/) [![Windows](https://skillicons.dev/icons?i=windows&theme=dark)](https://www.microsoft.com/en-us/windows)
+
+#### Connect with Me
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin&theme=dark)](https://www.linkedin.com/in/ynwahid/) [![GitHub](https://skillicons.dev/icons?i=github&theme=dark)](https://github.com/ynwahid)
 
 <!--
 **ynwahid/ynwahid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
